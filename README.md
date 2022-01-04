@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kris but you can call me Krispy</h1>
 <h3 align="center">Hello i'm a rocky game developer seeking help to buy a better game develop setup to improve my developing quality :D My daily word to myself is: Coding just for fun, making just for enjoy, and living more.</h3>
+<h3 align="center">My daily word to myself is: Coding just for fun, making just for enjoy, and living more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friskthefallenhuman&label=Profile%20views&color=0e75b6&style=flat-square" alt="friskthefallenhuman" /> </p>
 
