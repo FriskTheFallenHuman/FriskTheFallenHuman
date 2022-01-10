@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Codename: Love](<I Would Change this until its public>) but more important in [xFME Engine](https://github.com/FriskTheFallenHuman/xFrame-Work-SubEngine)
 
-- 💬 Ask me about **Anything realy**
+- 💬 Ask me about **Anything really**
 
 - ⚡ Fun fact **I learned C++ by myself and using source engine (oh no)**
 
