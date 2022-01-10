@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=friskthefallenhuman" alt="friskthefallenhuman" /></a> </p>
 
-- 🔭 I’m currently working on [Codename: Love](<Private Until the MVP Build>)
+- 🔭 I’m currently working on [Codename: Love](<Private Until the MVP Build>) and [xFME Engine](https://github.com/FriskTheFallenHuman/xFrame-Work-SubEngine)
 
 - 🌱 I’m currently learning **Unity and C#**
 
 - 🔭 I’m also currently working on [Undertale: Literature Club](https://gamejolt.com/games/utlc/646101)
 
-- 🤝 I’m looking for help with [Codename: Love](<I Would Change this until its public>)
+- 🤝 I’m looking for help with [Codename: Love](<I Would Change this until its public>) but more important in [xFME Engine](https://github.com/FriskTheFallenHuman/xFrame-Work-SubEngine)
 
 - 💬 Ask me about **Anything realy**
 
