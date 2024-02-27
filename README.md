@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kris but you can call me Krispy</h1>
+<h1 align="center">Hi 👋, I'm Krispy</h1>
 <h3 align="center">Hello i'm a rocky game developer seeking help to buy a better game develop setup to improve my developing quality :D My daily word to myself is: Coding just for fun, making just for enjoy, and living more.</h3>
-<h3 align="center">My daily word to myself is: Coding just for fun, making just for enjoy, and living more.</h3>
+<h3 align="center">My daily word to myself is: I Just make things, LoL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friskthefallenhuman&label=Profile%20views&color=0e75b6&style=flat-square" alt="friskthefallenhuman" /> </p>
 
-- 🔭 I’m currently working on [Codename: Love](<Private Until the MVP Build>) and [xFME Engine](https://github.com/FriskTheFallenHuman/xFrame-Work-SubEngine)
-
 - 🌱 I’m currently learning **Unity and C#**
-
-- 🔭 I’m also currently working on [Undertale: Literature Club](https://gamejolt.com/games/utlc/646101)
-
-- 🤝 I’m looking for help with [Codename: Love](<I Would Change this until its public>) but more important in [xFME Engine](https://github.com/FriskTheFallenHuman/xFrame-Work-SubEngine)
 
 - 💬 Ask me about **Anything really**
 
