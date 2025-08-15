@@ -13,7 +13,4 @@ Hello I'm a beginner dev that works on quake derive engines, mainly idtech4.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FriskTheFallenHuman&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskTheFallenHuman&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=FriskTheFallenHuman&icon=5&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
